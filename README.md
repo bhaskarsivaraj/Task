@@ -25,7 +25,7 @@ Node js
   1) This method will get all inserted data in the local mongodb database
 
 React app
-* Take a clone from repository called "stackoverflow-questions"
+* Take a clone from https://github.com/bhaskarsivaraj/stackoverflow-questions.git
 * Do npm install
 * start the react server with the command "npm start"
 * You can see the chart with the data 
